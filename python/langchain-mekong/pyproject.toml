@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "langchain-mekong"
+version = "0.1.0"
+description = "LangChain partner tools for the Mekong x402 pay-per-call API fleet (Base, USDC, no signup)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Mekong Trade Intelligence" }]
+dependencies = [
+    "requests>=2.28",
+    "pydantic>=2.0",
+    "langchain-core>=0.2",
+]
+keywords = ["x402", "ai-agents", "langchain", "usdc", "base", "pay-per-call"]
+
+[project.urls]
+Homepage = "https://api.mekongtradeintel.com/tools/"
+Documentation = "https://api.mekongtradeintel.com/tools/docs/"
+Repository = "https://github.com/judomanmk19xx-bot/x402-agent-demo"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["langchain_mekong*"]

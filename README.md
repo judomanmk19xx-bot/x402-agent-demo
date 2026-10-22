@@ -3,6 +3,8 @@
 A minimal working agent that pays per API call in USDC on Base ([x402](https://www.x402.org)).
 **No signup. No API keys.** Your agent pays $0.021 for a full token briefing.
 
+> **Don't know which endpoint you need?** Ask the [free task router](https://api.mekongtradeintel.com/recommend/) in plain language first — `POST /recommend/ {"task": "..."}` → top-3 endpoints + ready curls.
+
 ## What it does
 
 One command runs a 3-step pipeline against live pay-per-call endpoints:
