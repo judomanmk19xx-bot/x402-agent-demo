@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mekong-x402-game"
+version = "0.1.0"
+description = "G.A.M.E. framework functions for the Mekong x402 pay-per-call API fleet (Virtuals Protocol)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Mekong Trade Intelligence" }]
+keywords = ["virtuals", "game", "x402", "pay-per-call", "ai-agents"]
+dependencies = [
+    "game_sdk>=0.1.0",
+    "requests>=2.28",
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+]
+
+[project.urls]
+Homepage = "https://api.mekongtradeintel.com/tools/"
+Repository = "https://github.com/judomanmk19xx-bot/x402-agent-demo"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["mekong_x402*"]

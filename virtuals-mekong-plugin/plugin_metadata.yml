@@ -1,0 +1,16 @@
+name: mekong-x402
+version: 0.1.0
+description: >-
+  G.A.M.E. framework plugin for the Mekong x402 pay-per-call API fleet
+  (Virtuals Protocol). Provides 5 Functions — web search, morning briefing,
+  token safety verdict, company enrichment, token price — for Worker action
+  spaces. Free daily trial, then $0.001-$0.05/call in USDC on Base.
+maintainer: Mekong Trade Intelligence
+license: MIT
+functions:
+  - mekong_web_search      # $0.01/call after trial
+  - mekong_brief           # $0.05/call after trial
+  - mekong_ai_verdict      # $0.01/call after trial
+  - mekong_enrich          # $0.02/call after trial
+  - mekong_token_price     # $0.001/call after trial
+repository: https://github.com/judomanmk19xx-bot/x402-agent-demo
