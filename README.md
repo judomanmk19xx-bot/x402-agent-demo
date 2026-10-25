@@ -65,6 +65,9 @@ See [`python/`](python/) for framework-ready snippets (trial mode, `requests` on
 - Tool docs: https://api.mekongtradeintel.com/tools/
 - Agent store: https://api.mekongtradeintel.com/tools/store/
 - Machine-readable API catalog: https://api.mekongtradeintel.com/tools/mcp-schema.json
+- MCP connector (remote, no install — point any MCP client at it): https://api.mekongtradeintel.com/mcp-tools/mcp
+- Discovery bundle (x402 index, all resources): https://api.mekongtradeintel.com/.well-known/x402.json
+- Independent delivery verdicts (Settled): https://settled.tools/e/3096181
 - Adopt an endpoint (50/50 revenue share): https://api.mekongtradeintel.com/tools/adopt
 
 ## Security note
