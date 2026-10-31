@@ -1,0 +1,596 @@
+{
+  "company": "Coinbase",
+  "domain": "coinbase.com",
+  "statuses": {
+    "websearch": 200,
+    "enrich": 200,
+    "brief": 200
+  },
+  "results": {
+    "websearch": {
+      "query": "Coinbase latest news products funding",
+      "resultCount": 4,
+      "results": [
+        {
+          "title": "Coinbase Blog",
+          "url": "https://www.coinbase.com/blog",
+          "snippet": "Coinbase's financial results demonstrate consistent execution through a softer crypto market, including its fourth consecutive quarter of gains in Coinbase ...",
+          "domain": "coinbase.com",
+          "position": 1,
+          "relevance": 100,
+          "date": null
+        },
+        {
+          "title": "Coinbase - News",
+          "url": "https://investor.coinbase.com/news/default.aspx",
+          "snippet": "$200 Million in Annualized Revenue. Coinbase Announces the Upsize and Pricing of $2.0 Billion of Senior Notes for General Corporate Purposes Including Product ...",
+          "domain": "investor.coinbase.com",
+          "position": 2,
+          "relevance": 78,
+          "date": null
+        },
+        {
+          "title": "Coinbase Q3 2026 Earnings AMA w/ Brian Armstrong & Alesia ...",
+          "url": "https://www.youtube.com/watch?v=sWu_H4FY4A4",
+          "snippet": "In this session, we dive deep into our latest quarterly results, share updates on our product roadmap. Bitcoin value proposition & Base ...",
+          "domain": "youtube.com",
+          "position": 3,
+          "relevance": 61,
+          "date": "1 day ago"
+        },
+        {
+          "title": "System Update: The future of finance is on Coinbase",
+          "url": "https://www.google.com/goto?url=CAESiwEB6zswFXfz-CYklSmFw0jQjSVMjrY_geOHXZC1aaLH6JfEh9ijZaxOpb2kZ6jc7z-55OHj4lMjea7v-5bsRMBowsU5QxSGQ6V2xEdTDyY_eeZns_EqohESan2IKt5UMwacVeiZLNApqPVHjnH74hU5fOpD3iOqZKtIHRCxFVHUW-1197nlOeqoTBND",
+          "snippet": "Today, we launched several new products to usher in the future of finance on Coinbase. stock trading and prediction markets , including novel ...",
+          "domain": "google.com",
+          "position": 4,
+          "relevance": 47,
+          "date": "Dec 17, 2025"
+        }
+      ],
+      "fetchedAt": "2026-10-31T04:14:59.376Z",
+      "source": "Google Search results via Serper API",
+      "attribution": "Search data provided by Serper (serper.dev); normalized, deduplicated, spam-filtered and relevance-ranked by x402-websearch.",
+      "relatedQuestions": [
+        "What new listings are coming to Coinbase?",
+        "What does Jim Cramer say about Coinbase?",
+        "Who is Coinbase's biggest competitor?",
+        "Will Coinbase hit $400?"
+      ],
+      "relatedSearches": [
+        "Coinbase latest news products funding today",
+        "Coinbase announcement today",
+        "Coinbase news today",
+        "Coinbase news today live",
+        "Coinbase everything exchange",
+        "Coinbase System Update 2026",
+        "Coinbase new listings",
+        "Coinbase tokenized stocks"
+      ],
+      "cached": true,
+      "_telemetry": {
+        "score": 50,
+        "tier": "normal",
+        "quota_today": 10,
+        "note": "Standard trial quota."
+      }
+    },
+    "enrich": {
+      "domain": "coinbase.com",
+      "company": "coinbase.com",
+      "web": {
+        "source": "homepage",
+        "title": null,
+        "meta_description": null,
+        "og": {},
+        "jsonld_org": null,
+        "social": [],
+        "error": "homepage unreachable"
+      },
+      "dns": {
+        "source": "dns",
+        "mx": [
+          "alt3.aspmx.l.google.com",
+          "alt2.aspmx.l.google.com",
+          "alt4.aspmx.l.google.com",
+          "aspmx.l.google.com",
+          "alt1.aspmx.l.google.com"
+        ],
+        "txt": {
+          "spf": "v=spf1 include:amazonses.com include:_spf.google.com -all",
+          "has_dmarc_hint": false
+        },
+        "ns": [
+          "sue.ns.cloudflare.com",
+          "sam.ns.cloudflare.com"
+        ],
+        "error": null
+      },
+      "whois": {
+        "source": "whois",
+        "registrar": "MarkMonitor Inc.",
+        "creation_date": "2011-07-02T18:23:22Z",
+        "error": null
+      },
+      "sec": {
+        "source": "sec-edgar",
+        "cik": "0undefined",
+        "ticker": null,
+        "company": null,
+        "error": null
+      },
+      "sources": [
+        "dns",
+        "whois",
+        "sec-edgar"
+      ],
+      "partial": true,
+      "observed_at": "2026-10-31T04:15:08.037Z",
+      "cached": true,
+      "_telemetry": {
+        "score": 50,
+        "tier": "normal",
+        "quota_today": 4,
+        "note": "Standard trial quota."
+      }
+    },
+    "brief": {
+      "service": "morning-brief",
+      "topic": "Coinbase company research",
+      "geo": "US",
+      "generated_at": "2026-10-31T04:17:36.836Z",
+      "news": {
+        "topic": "Coinbase company research",
+        "count": 18,
+        "items": [
+          {
+            "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info - CoinDesk",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYTMwc3c0aXdoamtFN2txaXBvWkFBVU8telZwbFN1Zmt0dWswWlZaMnBqZ0RPazNNS19VT0RycWQ0SnBXQ1dkNm9WemRFd1FMbDVfaDBXa2xHUEx6Q1hfQ0dVdnFjM3RIWEd1WFRReHd5ZEdwZHJhcjZFSnRwMnJueWNQMlJUNElaQWltVUp1d19JeUgtRG9lcXBXYTNZZ1hGRkJYQ3FLUDhCYVNMRWFUcnU0WGsyU3VTWXllcDYybXBNcmtQdFBfWkJZeFhlUQ?oc=5",
+            "publishedAt": "Wed, 28 Oct 2026 03:28:00 GMT",
+            "source": "CoinDesk"
+          },
+          {
+            "title": "Guide to Crypto Markets 2026 - Coinbase",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdEFtbFRkUEdBS0VsWk5YczlUQ196SllReWotclJSeUF6dUVZUE14X1lTWDZBbE5udFpqdy1kTGpyOTBzSjNQOUZ0YmxNeXBjRkljem9sWjhVU1lMaldTMHp1T3pQMjVUbGV2cU4wOXE2R0ZvMl9MN1ZFMklNTkFnTFAxWFJwMzF5QUFKZ18zVThQN2FVQVA3TnpsU095ZVVraWdYeg?oc=5",
+            "publishedAt": "Mon, 23 Mar 2026 07:00:00 GMT",
+            "source": "Coinbase"
+          },
+          {
+            "title": "Empire State Development Announces Coinbase’s Expansion In New York City, Creating Over 600 High-Tech Jobs And Over $750 Million In Annual Research And Development | Empire State Development - Empire State Development (.gov)",
+            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMkFvcVFSTFFnQm00SF8zWUFLNEpCazVzSUN6alNFeTdWQk4xdl9DYkk3UXA2ZDl6d1VsOXlSakxpazNSTDBjRTdVWnZNemJMTkF5LXh6d29aa3czRnhkUEhLU1Q4TzFNaUpvd2tNTTBMS1kxdDVSV1E2NEJSejQzM2VMSnhNaHF3NUlvalgzYTNQem1SX1dpalJpaWpZNlVOQ2V6MzZKeTVET2tubldmczktMlNKODMzYkJxZDJIYWlNTktJNEVUaTFRTVc3WkU4bFVSUUtzTTVVTFdqZjdjb1dxSHRwOHhDclhTMDRCNkoxbU94RGU4VVFfdW1jX244SzBqMlU0b0pmSXoz?oc=5",
+            "publishedAt": "Wed, 04 Mar 2026 08:00:00 GMT",
+            "source": "Empire State Development (.gov)"
+          },
+          {
+            "title": "Coinbase Clarifies Amplitude Data Breach Impacted Only Limited Customer Contact Information [u] - Crowdfund Insider",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRjNjc1RLOVhiMEhYLWVzcE1tWTh3alh2TXptMkhPU2lYdHB6SWlQZE11T2x3ZzBha3p4MkNEM2pfUWxQMk1KdTMyWjQyNHYwUDBMNmN1WURLRHAzZWJHUVlwcEFybzhmN0stYXE1YzJMS3Fmbl9VTE5pNzNxWXVaQ1ZLWTB5VDlXamZFd2l2dXRqLUtDTm1mWHVvU00zS25YbnplME1uNmNNVDZFTVFQV09tUFc2ZjhEbHdLR0ZhYXNURHFWMDhZWlF5dU96NnN2WnQ4LUYwZw?oc=5",
+            "publishedAt": "Wed, 28 Oct 2026 11:43:25 GMT",
+            "source": "Crowdfund Insider"
+          },
+          {
+            "title": "Investors Heavily Search Coinbase Global, Inc. (COIN): Here is What You Need to Know - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXR0YnA1Y3Jlb0VsZE5Ya212aVhXcncxVXF2YjJPS21OTWgzbHRYbWdQU05hcE1NSFB3TXVITk1CSmZZYlJEUnU4eWJoYkt1ZGxiaVBqVmNSUjNQRG5tNkRpaDhQSEFIQ0gwVlRfYm5BcXY2ZktnN0l2a0MzbzJYTjhQSkV4UW84RTNkSTJCZGhZSnVnWHlBV0NTSThfTXZfaW5YejVGSjk?oc=5",
+            "publishedAt": "Fri, 02 Oct 2026 07:00:00 GMT",
+            "source": "Yahoo Finance"
+          },
+          {
+            "title": "Coinbase Global (NASDAQ:COIN) Earns Buy Rating from BTIG Research - MarketBeat",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc09QeVBxOUNBS1l6d1lQcnlFMXpyTU1QaWdBR2ZjR3FuR2lYbEhzR1N5akcwT2Q4eGhJVHpEbi1WYnduUGJ2S21Da1ZoWDdzZDQtX3p6WnBkMnd3bW5QdnViOG9HbWQ2alNVNDFsODk2VGQydHBDMldGbW9BMHhLQ05hWmF3dmZEQ1ZLa3FldXlPdUpWRmZsVFpfSWZlcTZpeDBjbHhvbG43dEtVVnJ5cW5fQmZNTjFING9zMlRkdEFUVzQ?oc=5",
+            "publishedAt": "Fri, 30 Oct 2026 12:42:58 GMT",
+            "source": "MarketBeat"
+          },
+          {
+            "title": "Coinbase Enters Tokenized Stock Fray on Third-Party ‘Wrapper’ Side - Galaxy",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGRmRUZnOHdxVjNKdTI3a0dEVk90MEJKV185a2oxTElRbzdjX00zdmxDUFFBeklITEh1U0NfOU10QWVaeVNLUWtURF9lZXRsWGl2UFJILVl5bWZkT2lMYzhUOFZZQmlXR0F0WXlkSVRqd0V5aVFMT1ljUEFHdzI1STRJb2h6TE1iOHpSR3ZoS05fMzJIWG11bklYYi1na3VuX2FtcUVjVmZfZ29sdWhIdGl2ajNHQQ?oc=5",
+            "publishedAt": "Fri, 28 Aug 2026 07:00:00 GMT",
+            "source": "Galaxy"
+          },
+          {
+            "title": "Coinbase reduces time from idea to production by 90% with Cursor - Cursor",
+            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ldTQwbHNxUGN1MHNQUHFkdVhZdy1RbkNxOHA3cFVFQTVOSTV5WW9ZLTA4eERYWkRBcldpTGxRWUxvRXNqLWFN?oc=5",
+            "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
+            "source": "Cursor"
+          },
+          {
+            "title": "Coinbase’s new tool can help agents trade and pay for premium research - TechCrunch",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lWllrNXZ1aWcyZFdLMHkwZ3lZZEFXYWxtWDhhTmpsck1XMnZSNTZXamFYaTN6S1M3T1lQMWJ2YVJTak5nMlZwS3J1WlEwWndISmVuRnJCbkpXa1c1TXlBaUpNNENwZ0dfcnNwa1dWMGR1b3o1UlBCLVBmOHc?oc=5",
+            "publishedAt": "Thu, 11 Jun 2026 07:00:00 GMT",
+            "source": "TechCrunch"
+          },
+          {
+            "title": "Charting Crypto (Q2 2026) - Coinbase",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNemN3Xzk2YzhqNXB4amtlMlU2dk5NdDVCWG83d0N5aEI3SDhEVU01LUZHRDNJQVZsWlBrcW5xTGFYWEtQanEzaXpkSHQtRFRDX2RBTU9GbzZ1MHFnc2ROTjI2TWlNNG9HZ0Z6TWtlbUVnU3IzVFhrX2hlMHpKRnhUTGpuNU9uUTdiRjFtSzFHd0N1SEVyZDhtbFpFOF9hZw?oc=5",
+            "publishedAt": "Mon, 27 Apr 2026 07:00:00 GMT",
+            "source": "Coinbase"
+          },
+          {
+            "title": "Coinbase To Expand NYC Office Into 1,000-Worker Research Hub - Bisnow",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlNlRm9tSGZaWDVxWk9BLTFHbkZuUDFRbFMwcU1IMS1pRmlGQ0lpd2IzVkNXSTRMNlZIVDRLU3VUQ0VBVjJ0eU9ZMVV0d25vVHRJQ1FuX21yZmx5YjFlRWFTbW9yNm1COFVMeE5URUxneG5ZdFdiN0ZENG84WFRJM3BySE1LRkctWkd5cjRrMnlsUW1sOVdkNFBtSnF6RG9vbGwzZG1FM0stdHJYck1WQVVCMW9pdw?oc=5",
+            "publishedAt": "Wed, 04 Mar 2026 08:00:00 GMT",
+            "source": "Bisnow"
+          },
+          {
+            "title": "Coinbase's corporate customers can now accept payments from AI agents - CoinDesk",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUUZPNFBxcmhjWVY5SXBmd0piSEVVZW43dlNfRmNLcHhORUdHbXJsZU55ckN6S2Z5cS1NN0tpaE9YWi1yZ2R3YVdzd1I4OVdkMjd4OHJWV0tWTEQ3TjdaZHBNUXp3U05WeXotSnAyTmZlSTRjZmV5TnZpaUV1aUR1c1JSUHF5c1AzazlOc1BoNWNwT0h4akYxRHpESHBtbDhfSHdNTTZZWDZsMnlhbkFpcDA3TVR3Q3ozdTNzWjkwNEN5T0E?oc=5",
+            "publishedAt": "Thu, 23 Jul 2026 07:00:00 GMT",
+            "source": "CoinDesk"
+          },
+          {
+            "title": "Will Robinhood Chain Succeed Where Coinbase’s Base Stumbled? - Galaxy",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ29rUDNqSUJ5ZkFydGk0XzQ5NzcxLUk1WW9fVUZJb051WUpwb1pNaUowUzRmT2RIQ3VMdEdSMlBwb2J3Vloxa0xjNFBTTkZqWVBJNTEzTDlVT1g1bjNNdkh1bHZmcnJVVHJranZTd0llN2gydzg2WFpGNUMwVXJ1T0o0SmYydzRDTXNnTjJ0ajJVcUJ6b3lPd3FkY21MUXZpbnRwR085aHFaMTNjODFGNEdfM0hIaFZmbWc?oc=5",
+            "publishedAt": "Thu, 30 Jul 2026 07:00:00 GMT",
+            "source": "Galaxy"
+          },
+          {
+            "title": "Coinbase Stock Higher In Bearish Chart Before Fed Rate Decision – Is Coinbase A Buy Or Sell Now? - Investor's Business Daily",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0loREZsa2RWcGF4OVJPV2xKOWZNN0Y4dDdwTGxzUWtQeU13eU1XdzdLVlZkOHo5bnVEeWdrYjdvS0FPRnF5eXFwWld2LTNFLUZzUU9pdWt2YlNkSGhOdXJudDY0bUFXRG13SEttaHZDQ2M2WTc4WER5TTl3UllQd2dB?oc=5",
+            "publishedAt": "Tue, 09 Dec 2025 08:00:00 GMT",
+            "source": "Investor's Business Daily"
+          },
+          {
+            "title": "Coinbase’s revenue mix increasingly driven by subscriptions - S&amp;P Global",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOS0yaEVKNElCYXl0NjhySGRHTU5mVklqRmppYXktOFROYnFLUlBKbmd6VGViOWIxSWRJUkc3Y0toTndmWV90MVBWakxiRUJvY3pIU05lS0pIdnlUUzNmd0ZlaGdubUtpeXVuYkFvbkh6UmpGQVNUZnpLV2duTkh5cUpWakhwZFdYdXczaTA0S3FTUEdHeTlnS3dhSFFPT3Zkd1BKZWhZWlczWjNqVkl2ZHhvOWl1d2tfZm5HOWswMVlBeEpCWlJ5RWU1LVc4bk53X3hN?oc=5",
+            "publishedAt": "Thu, 20 Nov 2025 08:00:00 GMT",
+            "source": "S&amp;P Global"
+          },
+          {
+            "title": "Coinbase Inc. has 933 CFPB consumer complaints",
+            "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/?company=Coinbase%2C%20Inc.&from=0&searchField=all&searchText=&size=25&sort=created_date_desc",
+            "publishedAt": "2018-01-08T23:23:07Z",
+            "source": "Hacker News"
+          },
+          {
+            "title": "3 Industries that Raise the Most Money",
+            "url": "https://news.ycombinator.com/item?id=30708233",
+            "publishedAt": "2022-03-17T06:25:22Z",
+            "source": "Hacker News"
+          },
+          {
+            "title": "Seeking advice about crypto payment processing",
+            "url": "https://news.ycombinator.com/item?id=38103717",
+            "publishedAt": "2023-11-01T19:36:49Z",
+            "source": "Hacker News"
+          }
+        ],
+        "fetchedAt": "2026-10-31T04:17:20.351Z"
+      },
+      "trends": {
+        "keyword": "Coinbase company research",
+        "geo": "US",
+        "interestOverTime": [
+          {
+            "date": "2025-10-26",
+            "value": 0
+          },
+          {
+            "date": "2025-11-02",
+            "value": 35
+          },
+          {
+            "date": "2025-11-09",
+            "value": 20
+          },
+          {
+            "date": "2025-11-16",
+            "value": 26
+          },
+          {
+            "date": "2025-11-23",
+            "value": 0
+          },
+          {
+            "date": "2025-11-30",
+            "value": 0
+          },
+          {
+            "date": "2025-12-07",
+            "value": 0
+          },
+          {
+            "date": "2025-12-14",
+            "value": 0
+          },
+          {
+            "date": "2025-12-21",
+            "value": 0
+          },
+          {
+            "date": "2025-12-28",
+            "value": 0
+          },
+          {
+            "date": "2026-01-04",
+            "value": 0
+          },
+          {
+            "date": "2026-01-11",
+            "value": 20
+          },
+          {
+            "date": "2026-01-18",
+            "value": 0
+          },
+          {
+            "date": "2026-01-25",
+            "value": 22
+          },
+          {
+            "date": "2026-02-01",
+            "value": 33
+          },
+          {
+            "date": "2026-02-08",
+            "value": 32
+          },
+          {
+            "date": "2026-02-15",
+            "value": 19
+          },
+          {
+            "date": "2026-02-22",
+            "value": 0
+          },
+          {
+            "date": "2026-03-01",
+            "value": 24
+          },
+          {
+            "date": "2026-03-08",
+            "value": 0
+          },
+          {
+            "date": "2026-03-15",
+            "value": 24
+          },
+          {
+            "date": "2026-03-22",
+            "value": 0
+          },
+          {
+            "date": "2026-03-29",
+            "value": 0
+          },
+          {
+            "date": "2026-04-05",
+            "value": 25
+          },
+          {
+            "date": "2026-04-12",
+            "value": 19
+          },
+          {
+            "date": "2026-04-19",
+            "value": 0
+          },
+          {
+            "date": "2026-04-26",
+            "value": 21
+          },
+          {
+            "date": "2026-05-03",
+            "value": 25
+          },
+          {
+            "date": "2026-05-10",
+            "value": 0
+          },
+          {
+            "date": "2026-05-17",
+            "value": 0
+          },
+          {
+            "date": "2026-05-24",
+            "value": 0
+          },
+          {
+            "date": "2026-05-31",
+            "value": 35
+          },
+          {
+            "date": "2026-06-07",
+            "value": 100
+          },
+          {
+            "date": "2026-06-14",
+            "value": 62
+          },
+          {
+            "date": "2026-06-21",
+            "value": 98
+          },
+          {
+            "date": "2026-06-28",
+            "value": 74
+          },
+          {
+            "date": "2026-07-05",
+            "value": 56
+          },
+          {
+            "date": "2026-07-12",
+            "value": 0
+          },
+          {
+            "date": "2026-07-19",
+            "value": 0
+          },
+          {
+            "date": "2026-07-26",
+            "value": 0
+          },
+          {
+            "date": "2026-08-02",
+            "value": 0
+          },
+          {
+            "date": "2026-08-09",
+            "value": 0
+          },
+          {
+            "date": "2026-08-16",
+            "value": 0
+          },
+          {
+            "date": "2026-08-23",
+            "value": 0
+          },
+          {
+            "date": "2026-08-30",
+            "value": 0
+          },
+          {
+            "date": "2026-09-06",
+            "value": 0
+          },
+          {
+            "date": "2026-09-13",
+            "value": 0
+          },
+          {
+            "date": "2026-09-20",
+            "value": 0
+          },
+          {
+            "date": "2026-09-27",
+            "value": 0
+          },
+          {
+            "date": "2026-10-04",
+            "value": 0
+          },
+          {
+            "date": "2026-10-11",
+            "value": 0
+          },
+          {
+            "date": "2026-10-18",
+            "value": 0
+          },
+          {
+            "date": "2026-10-25",
+            "value": 0
+          }
+        ],
+        "avgInterest": 15,
+        "peak": {
+          "date": "2026-06-07",
+          "value": 100
+        },
+        "momentum12mPct": null,
+        "rising": [],
+        "topQueries": [],
+        "regions": [
+          {
+            "geo": "Connecticut",
+            "value": 100
+          },
+          {
+            "geo": "Maryland",
+            "value": 87
+          },
+          {
+            "geo": "Kansas",
+            "value": 86
+          },
+          {
+            "geo": "California",
+            "value": 69
+          },
+          {
+            "geo": "New York",
+            "value": 68
+          },
+          {
+            "geo": "Virginia",
+            "value": 62
+          },
+          {
+            "geo": "Colorado",
+            "value": 55
+          },
+          {
+            "geo": "Georgia",
+            "value": 52
+          }
+        ],
+        "trend": null,
+        "aiInterpretation": "",
+        "opportunity": "",
+        "source": "pytrends",
+        "fetchedAt": "2026-10-31T04:17:36.832Z"
+      },
+      "sentiment": {
+        "query": "Coinbase company research",
+        "score": 0,
+        "label": "neutral",
+        "headlineCount": 10,
+        "bullDrivers": [],
+        "bearDrivers": [],
+        "summary": "",
+        "headlines": [
+          {
+            "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+            "source": "CoinDesk",
+            "date": "3 days ago"
+          },
+          {
+            "title": "Empire State Development Announces Coinbase’s Expansion In New York City, Creating Over 600 High-Tech Jobs And Over $750 Million In Annual Research And Development | Empire State Development",
+            "source": "Empire State Development (.gov)",
+            "date": "Mar 4, 2026"
+          },
+          {
+            "title": "Guide to Crypto Markets 2026",
+            "source": "Coinbase",
+            "date": "Mar 23, 2026"
+          },
+          {
+            "title": "Coinbase Clarifies Amplitude Data Breach Impacted Only Limited Customer Contact Information [u]",
+            "source": "Crowdfund Insider",
+            "date": "2 days ago"
+          },
+          {
+            "title": "Investors Heavily Search Coinbase Global, Inc. (COIN): Here is What You Need to Know",
+            "source": "Yahoo Finance",
+            "date": "1 month ago"
+          },
+          {
+            "title": "Coinbase Global (NASDAQ:COIN) Earns Buy Rating from BTIG Research",
+            "source": "MarketBeat",
+            "date": "16 hours ago"
+          },
+          {
+            "title": "Coinbase Enters Tokenized Stock Fray on Third-Party ‘Wrapper’ Side",
+            "source": "Galaxy",
+            "date": "Aug 28, 2026"
+          },
+          {
+            "title": "Coinbase reduces time from idea to production by 90% with Cursor",
+            "source": "Cursor",
+            "date": "Jun 23, 2026"
+          }
+        ],
+        "fetchedAt": "2026-10-31T04:17:23.401Z"
+      },
+      "partial_failures": [],
+      "_pricing": {
+        "bundle": "$0.05",
+        "components": {
+          "news": "$0.0008",
+          "trendsintel": "$0.10",
+          "sentiment": "$0.03"
+        },
+        "note": "Buyer pays only the $0.05 bundle price; internal component calls use X-Internal-Key and are not billed."
+      },
+      "_telemetry": {
+        "score": 50,
+        "tier": "normal",
+        "quota_today": 4,
+        "note": "Standard trial quota."
+      }
+    }
+  },
+  "list_total_usd": 0.08,
+  "job_price_usd": 1.5,
+  "mode": "trial",
+  "cost_usd": 0.0
+}
