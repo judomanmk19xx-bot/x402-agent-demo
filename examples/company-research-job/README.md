@@ -34,3 +34,18 @@ curl -X POST "https://api.mekongtradeintel.com/companyresearch/" \
 
 $1.50 in USDC on Base (x402 v2, exact scheme). First call per day is
 trial-served free. Offer page: https://api.mekongtradeintel.com/tools/company-research-job.html
+
+## Complementary data sources
+
+Registry pulls underneath the synthesis layer, from a fellow x402 seller:
+
+- **AgentReader** (Axiom Works) — keyless UK Companies House / KYB /
+  SEC EDGAR / EU VAT / web-to-markdown over x402 (Base USDC). Every GET
+  has a free `?preview=1` with the same JSON shape, handy for wiring a
+  registry step into a research pipeline before paying:
+  `GET https://api.axiomworks.co.uk/uk-company-lite?number=00445790&preview=1`
+  Spec: https://api.axiomworks.co.uk/.well-known/x402 · MCP:
+  https://api.axiomworks.co.uk/mcp
+
+Our job stays the synthesis layer on top: web signals + footprint +
+narrative briefing as one finished report.
